@@ -3,4 +3,4 @@
 #### BBZW Sursee Modul 114, Thema Verschlüsselung
 geschrieben von Johannes Zeller
 
-Erstellt mit Google Colab
+erstellt mit Google Colab
